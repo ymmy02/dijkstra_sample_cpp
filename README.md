@@ -2,7 +2,7 @@
 
 Language : C++
 
-## Excution
+## Execution
 
 ./{EXEFILE} node.txt edge.txt
 
